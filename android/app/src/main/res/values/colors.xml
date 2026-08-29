@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Aurora Glass night background, shared by the launch and normal themes. -->
+    <color name="night">#070B1A</color>
+	<color name="ic_launcher_background">#070B1A</color>
+</resources>
